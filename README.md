@@ -6,3 +6,5 @@ This entire blocklist and description is sourced from the Climate Block browser 
 
 ## Why these websites?
 The operators of the websites on the Climate Blocklist are funded, in part, directly or indirectly, by groups that want you to ignore rising sea levels, burning forests and warming oceans. Misinformation about climate change stops us from taking action and preparing for the changes that are already happening. Installing Climate Blocklist means we stop supporting these messages, and stop funding them.
+
+Thanks to @matcarpenter for some of the site list ByeRupert and the Murdoch Blocker list from @emilyapocalypse.
